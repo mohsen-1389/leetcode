@@ -7,4 +7,4 @@ class Solution:
                 ones = ones+1
             
         return ones
-print(Solution().hammingWeight(678))
+print(Solution().hammingWeight(678))    
